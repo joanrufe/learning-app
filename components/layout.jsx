@@ -122,7 +122,7 @@ export default ({ children }) => {
         `}
       </style>
       <Head>
-        <title>Next.js + MongoDB App</title>
+        <title>Aprendiendo juntos</title>
         <meta
           key="viewport"
           name="viewport"
@@ -132,7 +132,7 @@ export default ({ children }) => {
           name="description"
           content="nextjs-mongodb-app is a continously developed app built with Next.JS and MongoDB. This project goes further and attempts to integrate top features as seen in real-life apps."
         />
-        <meta property="og:title" content="Next.js + MongoDB App" />
+        <meta property="og:title" content="Aprendiendo juntos" />
         <meta
           property="og:description"
           content="nextjs-mongodb-app is a continously developed app built with Next.JS and MongoDB. This project goes further and attempts to integrate top features as seen in real-life apps."
@@ -146,7 +146,7 @@ export default ({ children }) => {
         <nav>
           <Link href="/">
             <a>
-              <h1>Learning Together Platform</h1>
+              <h1>Aprendiendo juntos Platform</h1>
             </a>
           </Link>
           <div>

@@ -6,7 +6,7 @@ export default function MyApp({ Component, pageProps }) {
   return (
     <Layout>
       <Head>
-        <title>Learning Together Platform</title>
+        <title>Aprendiendo juntos Platform</title>
       </Head>
       <Component {...pageProps} />
     </Layout>
